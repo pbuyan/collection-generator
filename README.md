@@ -1,1 +1,1 @@
-# collection-generator
+# collection-generator hello-world

@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const GeneratedImagesSkeleton = () => {
-  return (
-	<div>GeneratedImagesSkeleton</div>
-  )
-}
+  return <div>GeneratedImagesSkeleton</div>;
+};
 
-export default GeneratedImagesSkeleton
+export default GeneratedImagesSkeleton;
